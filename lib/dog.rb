@@ -16,3 +16,9 @@ fido = Dog.new;
 # `puts` puts out the memory location in the computer of the newly created dog instance, `fido`, to the terminal.
 puts fido
 
+class Dog
+end
+
+fido = Dog.new
+snoopy = Dog.new
+lassie = Dog.new
